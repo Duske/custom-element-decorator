@@ -1,6 +1,8 @@
 # Custom element decorator [![Build Status](https://travis-ci.org/Duske/custom-element-decorator.svg?branch=master)](https://travis-ci.org/Duske/custom-element-decorator)
-This package provides a simple (decorator)[https://github.com/wycats/javascript-decorators] for custom element classes, which automatically
+This package provides a simple [decorator](https://github.com/wycats/javascript-decorators) for custom element classes, which automatically
 checks for a valid name and registers the element in the DOM.
+
+**Please note**: The automatic registration relies on `document.registerElement()`. Please make sure that this is available in your environment, e.g. [document-register-element](https://github.com/WebReflection/document-register-element)
 
 ## Installation
 ```

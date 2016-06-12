@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rollup/rollup-starter-project.git"
+    "url": "git+https://github.com/Duske/custom-element-decorator.git"
   },
   "keywords": [
     "custom element",
@@ -27,13 +27,13 @@
   "author": "Dustin Chabrowski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rollup/rollup-starter-project/issues"
+    "url": "https://github.com/Duske/custom-element-decorator/issues"
   },
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/rollup/rollup-starter-project#readme",
+  "homepage": "https://github.com/Duske/custom-element-decorator#readme",
   "dependencies": {
     "validate-element-name": "^1.0.0"
   },
