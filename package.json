@@ -1,6 +1,6 @@
 {
-  "name": "custom-component-decorator",
-  "version": "0.0.1",
+  "name": "custom-element-decorator",
+  "version": "0.0.2",
   "description": "Simple decorator to automatically register a custom element",
   "main": "dist/index.js",
   "jsnext:main": "dist/index.mjs",
