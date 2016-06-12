@@ -1,0 +1,1 @@
+--recursive test/**/*.js -r jsdom-global/register -r document-register-element --compilers js:babel-register
