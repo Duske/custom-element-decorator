@@ -6,7 +6,7 @@ checks for a valid name and registers the element in the DOM.
 
 ## Installation
 ```
-npm install --save-dev rollup-plugin-babel
+npm i custom-element-decorator --save-dev
 ```
 
 ## Usage
