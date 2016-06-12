@@ -11,7 +11,7 @@ npm install --save-dev rollup-plugin-babel
 
 ## Usage
 
-### @component(componentname)
+### @customElement(componentname)
 ```js
 import { customElement } from 'custom-element-decorator';
 
@@ -22,7 +22,7 @@ export default class TestComponent extends HTMLElement {
 ```
 The given name ('super-component') will be checked for validity and the element gets registered as `document.registerElement('super-component', TestComponent)`
 
-### @component()
+### @customElement()
 You can also let the decorator guess the name of the component, if you omit the name parameter:
 ```js
 import { customElement } from 'custom-element-decorator';
